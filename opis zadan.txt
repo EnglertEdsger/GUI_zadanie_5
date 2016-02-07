@@ -1,0 +1,18 @@
+Zadanie 1
+
+Stworzyæ JListê, pokazuj¹ca informacje o temperaaturze w postaci:
+k stopni C = f stopni F
+gdzie k zmienia siê od -70 do +60.
+
+Zadanie 2
+
+W oknie jest: JTextField i JList 
+
+Wpisanie tekstu w JTextField i wciœniêcie Enter powoduje wstawienie tekstu na listê. 
+Zaznaczone elementy mog¹ byæ z listy usuwane przez alt-klikniêcie na liœcie.
+
+Zadanie 3
+
+Stworzyæ tabelê (JTable), pokazuj¹c¹ ksi¹¿ki. Ksi¹¿ka ma: autora tytul cenê Informacja o ksi¹¿kach ma byæ wczytana z pliku tekstowego.
+ Nale¿y zapewniæ: mo¿liwoœæ edycji cen w tabeli (w komórce) mo¿lwioœæ dodawania i usuwania wierszy do/z tabeli z poziomu GUI.
+ Do projektu nale¿y do³¹czyæ przyk³adowy plik tekstowy z informacjami o ksi¹zkach, aby umo¿liwiæ testowanie
